@@ -2,7 +2,7 @@
 // Basic connection settings
 $databaseHost = 'ita.voco.ee';
 $databaseUsername = 'vso25kasuk_sten';
-$databasePassword = 'Uzm@zHEXUm8m!XdL';
+$databasePassword = 'password';
 $databaseName = 'vso25kasuk_haaletus';
 
 // Connect to the database
