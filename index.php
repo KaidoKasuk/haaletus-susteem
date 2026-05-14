@@ -14,6 +14,10 @@ $result = mysqli_query($mysqli, "SELECT * FROM ISIKUD ORDER BY Isiku_id DESC");
 	<table>
 		<tr>
 			<td>Nimi</td>
+            <td>Nimi</td>
+            <td>Nimi</td>
+            <td>Nimi</td>
+
 
 			<td><a class="button" href="add.php">Add Contact</a></td>
 		</tr>
